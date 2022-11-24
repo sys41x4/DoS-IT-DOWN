@@ -28,7 +28,7 @@
 </p>
 
 
-<p align="center"><img src="/assets/cover_image.png" alt="DoS-IT-DOWN png" /></p>
+<p align="center"><img src="/assets/cover_image.png" alt="DoS-IT-DOWN png"  width="500" /></p>
 
 
 <p align="center">
