@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sys41x4/DoS-IT-DOWN">
-    <img alt="DoS IT DOWN" src=https://avatars.githubusercontent.com/u/66935336?v=4 width="200" />
+    <img alt="DoS IT DOWN" src="/assets/logo.png" width="200" />
   </a>
 </p>
 <h1 align="center">
@@ -28,7 +28,7 @@
 </p>
 
 
-<p align="center"><img src="/assets/icons/logo.png" alt="DoS-IT-DOWN png" /></p>
+<p align="center"><img src="/assets/cover_image.png" alt="DoS-IT-DOWN png" /></p>
 
 
 <p align="center">
