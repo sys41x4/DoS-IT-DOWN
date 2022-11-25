@@ -80,8 +80,9 @@ Available attacks being made with the script are:
 
 ---
 
-**!!! USE AT YOUR OWN RISK !!!**
+
 <p align="center">
+  <b>!!! USE AT YOUR OWN RISK !!!</b>
 <i>Loved the Project? Why Not try the <a href="https://github.com/sys41x4/DDoS-IT-DOWN">DDoS IT DOWN</a> Tool</i>
 </p>
   
